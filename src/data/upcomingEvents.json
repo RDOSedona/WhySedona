@@ -1,0 +1,29 @@
+[
+  {
+    "label": "WEBINAR",
+    "title": "WG1 Virtual Forum on Recent Case Law Addressing the Application of Privilege and Work Product to Generative AI Data",
+    "date": "April 2, 2026",
+    "location": "Virtual forum | Online",
+    "href": "https://www.thesedonaconference.org/WG1_VFGAI",
+    "image": "https://www.thesedonaconference.org/sites/default/files/styles/image_900_x_600/public/conference-images/WG1VF_0.png?itok=tbYEqIIx",
+    "imageAlt": "WG1 Virtual Forum promotional image"
+  },
+  {
+    "label": "WG13",
+    "title": "Working Group 13 Annual Meeting 2026",
+    "date": "April 9-10, 2026",
+    "location": "The Royal Sonesta Austin | Austin, TX",
+    "href": "https://www.thesedonaconference.org/WG13_AM26",
+    "image": "https://www.thesedonaconference.org/sites/default/files/styles/image_900_x_600/public/WG13Cactus.png?itok=o83-9agD",
+    "imageAlt": "Working Group 13 Annual Meeting 2026 image"
+  },
+  {
+    "label": "WG1",
+    "title": "Working Group 1 Midyear Meeting 2026",
+    "date": "April 23-24, 2026",
+    "location": "The Asher Adams Hotel | Salt Lake City, UT",
+    "href": "https://www.thesedonaconference.org/WG1_MY26",
+    "image": "https://www.thesedonaconference.org/sites/default/files/styles/image_900_x_600/public/WG1MY26.png?itok=zSlU2R48",
+    "imageAlt": "Working Group 1 Midyear Meeting 2026 image"
+  }
+]
